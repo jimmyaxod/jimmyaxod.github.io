@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Currently looking at low level protocols, IPFS, libp2p, monitoring dhts, etc.
+On the look out for a job!
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[jimmy.moore@gmail.com](mailto:jimmy.moore@gmail.com)
